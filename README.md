@@ -10,3 +10,5 @@ The corpus contains:
 - 400 deceptive negative reviews from Mechanical Turk
 
 ![alt text](http://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1531849425/op_spam_train_nqqxcz.jpg)
+
+I classified the truthful and deceptive hotel reviews using SVM and Random Forest. 
